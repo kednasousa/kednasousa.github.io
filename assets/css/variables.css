@@ -1,0 +1,23 @@
+/* FONTES */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,500&display=swap');
+
+/* Variables */
+:root {
+	--main-color: #e02f6b;
+	--blue: #0000ff;
+	--blue-dark: #18293c;
+	--orange: #ffa500;
+	--green-yellow: #cddc39;
+	--pink-ligth: #efa2b4;
+	--cyan-ligth: #aef1ee;
+	--white: #ffffff;
+	--white-alpha-40: rgba(255, 255, 255, 0.40);
+	--white-alpha-25: rgba(255, 255, 255, 0.25);
+	--backdrop-filter-bur: blur(5px)
+
+	--roxo: #6C0CAC;
+	--verde-agua: #07FBCE;
+	--rosa: #FF016A;
+	-lilas: #ECEBFF;
+}
+
