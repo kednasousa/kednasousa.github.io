@@ -6,6 +6,7 @@
   --two: #2b446d;
   --three: #F5F5F5F5;
   --four: #c7d2fe;
+  
 }
 
 * {
@@ -223,4 +224,16 @@ body {
   color: red;
   font-size: 0.8rem;
   margin: 5px;
+}
+
+.aviso {
+  font-size: 3rem;
+  color: red;
+  text-align: center;
+}
+
+.aviso__description {
+  font-size: 1.4rem;
+  color: var(--two);
+  justify-content: center;
 }
