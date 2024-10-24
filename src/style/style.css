@@ -237,3 +237,15 @@ body {
   color: var(--two);
   justify-content: center;
 }
+
+.aviso__btn {
+  background-color: red;
+  color: whitesmoke;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.aviso__btn.active {
+  background-color: black;
+  color: whitesmoke;
+}
