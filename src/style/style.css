@@ -2,6 +2,7 @@
 
 :root {
   --font: "Arima", system-ui;
+  --font-color: #142035;
   --one: #FF204E;
   --two: #2b446d;
   --three: #F5F5F5F5;
@@ -26,6 +27,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  color: var(--font-color);
 }
 
 #container {
